@@ -407,6 +407,7 @@ header .area-main-menu .gva-search-region {
   position: absolute;
   right: 5px;
   top: 50%;
+  display: none;
   margin-top: -13px;
   z-index: 9;
 }
@@ -5278,6 +5279,7 @@ div.resizable-textarea textarea {
   background: none;
   position: relative;
   margin: 0 0 15px;
+  display: none;
   padding-bottom: 15px;
 }
 .block .block-title:after {
